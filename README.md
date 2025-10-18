@@ -50,12 +50,12 @@ CSS – Inline styling for error and counter messages
 
 Clone the repository:
 
-git clone https://github.com/your-username/textarea-character-counter.git
+git clone https://github.com/yashinipriya07/Real-Time-Textarea-Character-Tracker.git
 
 
 Open the HTML file
 
-Open index.html (or textarea.html) in your web browser.
+Open index.html  in your web browser.
 
 Start Typing
 
